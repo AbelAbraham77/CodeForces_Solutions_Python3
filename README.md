@@ -14,6 +14,10 @@ This repository also serves as a documentation of my competitive programming jou
 
 Each solution is organized by the problem's Codeforces contest and problem number. You'll find a directory for each contest, and within each directory, the solutions to individual problems.
 
+## Note
+
+I am solving the problems based on their difficulty level, determined by the number of accepted submissions on the Codeforces problemset tab. This approach helps me gradually tackle more challenging problems as I improve my skills.
+
 ## Contributing
 
 I welcome contributions! If you have a different or more efficient solution, feel free to create a pull request. Let's learn and grow together.
